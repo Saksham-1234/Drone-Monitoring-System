@@ -7,7 +7,7 @@
 1. Python any version but prefered above 2.8
 2. Install python virtual environment pipenv (Not necessary though)
 3. Django
-4. Postgresql (Integrated this for now, aage dekhte hai agar koi aur use karna huya toh )
+4. Postgresql
 
 ### For Running on your system
 1. Clone the Github Repo
